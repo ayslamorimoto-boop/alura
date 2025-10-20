@@ -1,0 +1,18 @@
+Botton { 
+Background-color:#64A712, ->cor de fundo do botão.
+Color:White; ->cor texto do botão.
+font-family:"Bai jamjuree", sans-erif, ->fonte texto botão.
+}
+Passo { 
+Display;none, ->"esconde" o elemento.
+}
+Passo ativo{ 
+Display: block, -> torna o passo visivel.
+}
+Main{  
+Texto-align;center,->alinhamento do texto
+Max-width:90%, ->largura maxima do menu 
+}
+Img {
+Max-width:90%, -> largura maxima da imagem 
+}
